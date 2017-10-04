@@ -2,11 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fd79a9-7ce7-41aa-882d-8b71ecc3aeb6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/server/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/utils/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/A.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/B.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/C.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/D.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/E.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/F.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/G.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/H.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/J.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/K.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/L.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/M.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/N.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/O.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/P.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/Q.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/R.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/U.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/V.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/W.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/X.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/Y.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/avatars/Z.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/static/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/app/common/logger.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/app/dal/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/app/dal/ps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/app/dal/users.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/app/db/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/app/db/postgres.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/app/handler/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/app/handler/account.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/app/handler/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/app/handler/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/app/handler/resource.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/app/server/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/application.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/main/analytics.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/main/buttons.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/main/calendar.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/main/dashboard.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/main/features.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/main/forms.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/main/gallery.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/main/notifications.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/main/tables.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/main/tasks.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/main/tickets.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/main/users.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/template/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hurnado/url.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/test-db.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/test-whatever.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/hurnado/server/__init__.py" afterPath="$PROJECT_DIR$/src/hurnado/app/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/hurnado/utils/__init__.py" afterPath="$PROJECT_DIR$/src/hurnado/app/common/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,19 +75,204 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="log.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/log.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hurnado/app/handler/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-768">
+              <caret line="151" column="30" lean-forward="true" selection-start-line="151" selection-start-column="30" selection-end-line="151" selection-end-column="30" />
+              <folding>
+                <element signature="e#40#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calendar.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hurnado/template/main/calendar.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="56" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hurnado/template/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="66" lean-forward="true" selection-start-line="8" selection-start-column="66" selection-end-line="10" selection-end-column="69" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hurnado/template/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="23" column="70" lean-forward="false" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+              <folding>
+                <element signature="e#976#982#1" expanded="true" />
+                <element signature="e#1008#1014#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hurnado/template/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="23" column="70" lean-forward="false" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+              <folding>
+                <element signature="e#976#982#1" expanded="true" />
+                <element signature="e#1008#1014#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>style</find>
+      <find>from</find>
+      <find>mail</find>
+      <find>Odinn</find>
+      <find>Analy</find>
+      <find>accordion-toggle b_C1F8A9</find>
+      <find>active</find>
+      <find>accordion-toggle b_F79999</find>
+      <find>nickname</find>
+      <find>Analytics</find>
+      <find>b_F79999b_F79999</find>
+      <find>myModalLabel</find>
+      <find>print</find>
+      <find>.html</find>
+      <find>collapse&quot;</find>
+      <find>icon-user</find>
+      <find>collapsed</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>collapse1&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/hurnado/static</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/hurnado/template/test.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/app/handler/test.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/app/db/users.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/app/handler/index.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/app/dal/ps.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/app/utils/logger.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/index-2.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/application.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/500.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/404.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/server.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/handler.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/app/db/postgres.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/app/handler/utils.py" />
+        <option value="$PROJECT_DIR$/src/test/test-db.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/app/dal/users.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/app/handler/account.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/analytics.hc" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/sdf.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/index.hc" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/users.htm" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/index.htm" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/index.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main-footer.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main-header.htm" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main-frame.htm" />
+        <option value="$PROJECT_DIR$/src/test/test-whatever.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main-users.htm" />
+        <option value="$PROJECT_DIR$/src/hurnado/app/handler/resource.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main-task.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main-task.htm" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main-dashboard.htm" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main-buttons.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main-forms.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main-forms.htm" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main/features.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main/features.htm" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main/tickets.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main/notifications.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main/notifications.htm" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main/gallery.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main/calendar.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main/tables.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/url.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/app/handler/base.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/main.html" />
+        <option value="$PROJECT_DIR$/src/test/log.txt" />
+        <option value="$PROJECT_DIR$/src/hurnado/app/handler/main.py" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/register.html" />
+        <option value="$PROJECT_DIR$/src/hurnado/template/login.html" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>HTML</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,6 +293,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -71,7 +317,69 @@
               <item name="hurnado" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hurnado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hurnado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hurnado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hurnado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hurnado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hurnado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hurnado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hurnado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hurnado" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hurnado" type="b2602c69:ProjectViewProjectNode" />
@@ -83,15 +391,25 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/hurnado/app/handler" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/hurnado/static/img/avatars" />
+      <recent name="$PROJECT_DIR$/src/hurnado/static/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/hurnado/server" />
+      <recent name="$PROJECT_DIR$/src/hurnado/template/main" />
+      <recent name="$PROJECT_DIR$/src/hurnado/template" />
+      <recent name="$PROJECT_DIR$/src/hurnado/app/dal" />
+      <recent name="$PROJECT_DIR$/src/hurnado/app" />
+      <recent name="$PROJECT_DIR$/src/hurnado" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -106,8 +424,114 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.server">
+    <configuration name="application" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/hurnado" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hurnado" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/hurnado/application.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/hurnado" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hurnado" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/hurnado/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test-db" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hurnado" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test/test-db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test-whatever" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hurnado" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test/test-whatever.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="users" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/hurnado/app/dal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hurnado" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/hurnado/app/dal/users.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.server" />
+      <item index="1" class="java.lang.String" itemvalue="Python.application" />
+      <item index="2" class="java.lang.String" itemvalue="Python.users" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test-db" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test-whatever" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.server" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test-whatever" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test-db" />
+        <item index="3" class="java.lang.String" itemvalue="Python.users" />
+        <item index="4" class="java.lang.String" itemvalue="Python.application" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -121,24 +545,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -146,7 +571,440 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/odinn.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/select2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/saturation.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/spinner.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/gallery/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/gallery/15.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/gallery/14.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/gallery/13.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/gallery/10.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/gallery/11.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/gallery/8.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/gallery/6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/gallery/2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/gallery/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/sort_asc_disabled.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/sort_both.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/select2x2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/alpha.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/dotted.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/glyphicons-halflings.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/glyphicons-halflings-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/hue.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/app/handler/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/static/img/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test-db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/app/dal/users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="43" column="60" lean-forward="true" selection-start-line="43" selection-start-column="60" selection-end-line="43" selection-end-column="60" />
+          <folding>
+            <element signature="e#40#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages/tornado/web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5540">
+          <caret line="1514" column="0" lean-forward="false" selection-start-line="1514" selection-start-column="0" selection-end-line="1514" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main-footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main/analytics.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test-whatever.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main/users.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="374" column="24" lean-forward="true" selection-start-line="374" selection-start-column="24" selection-end-line="374" selection-end-column="24" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#table#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#table#0;n#div#1;n#div#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/app/handler/resource.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/app/handler/account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="61" column="32" lean-forward="true" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+          <folding>
+            <element signature="e#40#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main/tasks.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="252" column="6" lean-forward="false" selection-start-line="252" selection-start-column="6" selection-end-line="252" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="false" />
+            <element signature="e#13232#13238#0" expanded="false" />
+            <element signature="e#13238#13244#0" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#2;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main/dashboard.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="677" column="28" lean-forward="false" selection-start-line="677" selection-start-column="28" selection-end-line="677" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#3;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#3;n#!!top" expanded="false" />
+            <element signature="e#37645#37651#0" expanded="false" />
+            <element signature="e#37651#37657#0" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#3;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main/forms.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16878">
+          <caret line="582" column="21" lean-forward="false" selection-start-line="582" selection-start-column="21" selection-end-line="582" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#4;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#div#0;n#div#14;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#17;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#5;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#5;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#5;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#6;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#6;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#7;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#form#1;n#div#0;n#div#1;n#div#0;n#div#7;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#7;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main/tickets.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/app/handler/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main/tables.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="431" column="21" lean-forward="false" selection-start-line="431" selection-start-column="21" selection-end-line="431" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main/gallery.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="88" column="21" lean-forward="false" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main/notifications.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="103" column="21" lean-forward="false" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main/buttons.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8526">
+          <caret line="294" column="21" lean-forward="false" selection-start-line="294" selection-start-column="21" selection-end-line="294" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#16145#16149#0" expanded="false" />
+            <element signature="e#16159#16165#0" expanded="false" />
+            <element signature="e#16178#16184#0" expanded="false" />
+            <element signature="e#16184#16188#0" expanded="false" />
+            <element signature="e#16188#16192#0" expanded="false" />
+            <element signature="e#16199#16205#0" expanded="false" />
+            <element signature="e#16206#16212#0" expanded="false" />
+            <element signature="e#16219#16225#0" expanded="false" />
+            <element signature="e#16239#16245#0" expanded="false" />
+            <element signature="e#16245#16249#0" expanded="false" />
+            <element signature="e#16255#16259#0" expanded="false" />
+            <element signature="e#16261#16265#0" expanded="false" />
+            <element signature="e#16265#16269#0" expanded="false" />
+            <element signature="e#16273#16277#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/app/handler/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-768">
+          <caret line="151" column="30" lean-forward="true" selection-start-line="151" selection-start-column="30" selection-end-line="151" selection-end-column="30" />
+          <folding>
+            <element signature="e#40#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main/calendar.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main/features.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="384" column="57" lean-forward="false" selection-start-line="384" selection-start-column="32" selection-end-line="384" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="66" lean-forward="true" selection-start-line="8" selection-start-column="66" selection-end-line="10" selection-end-column="69" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="23" column="70" lean-forward="false" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+          <folding>
+            <element signature="e#976#982#1" expanded="true" />
+            <element signature="e#1008#1014#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hurnado/template/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" column="70" lean-forward="false" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+          <folding>
+            <element signature="e#976#982#1" expanded="true" />
+            <element signature="e#1008#1014#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

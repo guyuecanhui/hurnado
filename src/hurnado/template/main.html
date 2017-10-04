@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Working Flow</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Hubert">
+    <link href="{{static_url('css/bootstrap.min.css')}}" rel="stylesheet">
+    <link href="{{static_url('css/theme.css')}}" rel="stylesheet">
+    <link href="{{static_url('css/font-awesome.min.css')}}" rel="stylesheet">
+    <link href="{{static_url('css/alertify.css')}}" rel="stylesheet">
+</head>
+<body>
+<div id="wrap">
+    <div class="navbar navbar-fixed-top">
+        <div class="navbar-inner">
+            <div class="container-fluid">
+                <div class="logo">
+                    <img src="{{static_url('img/logo.png')}}" alt="HC Logo" width="30" height="30">
+                </div>
+                <div class="top-menu visible-phone visible-tablet">
+                    <ul class="pull-right">
+                        <li><a title="Contact us" href="mailto:hucheng9@huawei.com"><i
+                                class="icon-envelope"></i>Contact Us</a></li>
+                        <li><a title="Logout" href="logout"><i class="icon-off"></i>Logout</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <!-- Side menu -->
+        <div class="sidebar-nav nav-collapse collapse">
+            <div class="user_side clearfix">
+                {%set src='img/avatars/'+nickname[0].upper()+'.png'%}
+                <img src="{{static_url(src)}}" alt="Odinn god of Thunder">
+                <h5>{{nickname}}</h5>
+                <a href="setting"><i class="icon-cog"></i> Settings</a>
+            </div>
+            <div class="accordion" id="accordion2">
+                <div class="accordion-group">
+                    <div class="accordion-heading">
+                        <a class="accordion-toggle b_F79999" href="index"><i class="icon-dashboard"></i> <span>Dashboard</span></a>
+                    </div>
+                </div>
+                <div class="accordion-group">
+                    <div class="accordion-heading">
+                        <a class="accordion-toggle b_C3F7A7 collapsed" data-toggle="collapse" data-parent="#accordion2"
+                           href="#collapse1"><i class="icon-magic"></i> <span>Features</span></a>
+                    </div>
+                    <div id="collapse1" class="accordion-body collapse">
+                        <div class="accordion-inner">
+                            <a class="accordion-toggle" href="features"><i class="icon-star"></i> UI
+                                Features</a>
+                            <a class="accordion-toggle" href="forms"><i class="icon-list-alt"></i> Forms</a>
+                            <a class="accordion-toggle" href="tables"><i class="icon-table"></i> Tables</a>
+                            <a class="accordion-toggle" href="buttons"><i class="icon-circle"></i> Buttons</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-group">
+                    <div class="accordion-heading">
+                        <a class="accordion-toggle b_9FDDF6 collapsed" data-toggle="collapse" data-parent="#accordion2"
+                           href="#collapse2"><i class="icon-reorder"></i> <span>Components</span></a>
+                    </div>
+                    <div id="collapse2" class="accordion-body collapse">
+                        <div class="accordion-inner">
+                            <a class="accordion-toggle" href="notifications"><i class="icon-rss"></i> Notifications</a>
+                            <a class="accordion-toggle" href="calendar"><i class="icon-calendar"></i> Calendar</a>
+                            <a class="accordion-toggle" href="gallery"><i class="icon-picture"></i> Gallery</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-group">
+                    <div class="accordion-heading">
+                        <a class="accordion-toggle b_F6F1A2" href="tasks"><i class="icon-tasks"></i>
+                            <span>Tasks</span></a>
+                    </div>
+                </div>
+                <div class="accordion-group">
+                    <div class="accordion-heading">
+                        <a class="accordion-toggle b_C1F8A9" href="analytics"><i class="icon-bar-chart"></i>
+                            <span>Analytics</span></a>
+                    </div>
+                </div>
+                <div class="accordion-group">
+                    <div class="accordion-heading">
+                        <a class="accordion-toggle b_9FDDF6" href="tickets"><i class="icon-bullhorn"></i> <span>Support Tickets</span></a>
+                    </div>
+                </div>
+                <div class="accordion-group">
+                    <div class="accordion-heading">
+                        <a class="accordion-toggle b_F5C294" href="users"><i class="icon-user"></i>
+                            <span>Users</span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {%raw inner_html%}
+    </div><!--/.fluid-container-->
+</div>
+<script type="text/javascript" src="{{static_url('js/jquery.min.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/bootstrap.min.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/jquery-ui.min.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/raphael-min.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/sparkline.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/morris.min.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/jquery.dataTables.min.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/jquery.masonry.min.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/jquery.masonry.min.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/jquery.imagesloaded.min.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/jquery.facybox.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/jquery.alertify.min.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/jquery.knob.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/fullcalendar.min.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/jquery.slimscroll.min.js')}}"></script>
+<script type="text/javascript" src="{{static_url('js/realm.js')}}"></script>
+</body>
+</html>
